@@ -1,5 +1,7 @@
 """
 https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434819/00000000004348e6
+
+https://web.archive.org/web/20210708131736if_/https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434819/00000000004348e6
 """
 def start():
     from bisect import bisect
