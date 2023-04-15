@@ -1,7 +1,5 @@
-# https://codingcompetitions.withgoogle.com/codejam/round/0000000000c9607c/0000000000cad2ce
-
 '''
-
+https://codingcompetitions.withgoogle.com/codejam/round/0000000000c9607c/0000000000cad2ce
 '''
 def read(dtype=int):
     return dtype(input().strip())
